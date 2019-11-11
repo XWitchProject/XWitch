@@ -1,0 +1,3 @@
+[submodule "XWitch/libs/HTMLAgilityPack"]
+	path = XWitch/libs/HTMLAgilityPack
+	url = https://github.com/NoitaOmmel/HTMLAgilityPack

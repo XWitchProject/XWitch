@@ -1,0 +1,3 @@
+[submodule "libs/HTMLAgilityPack"]
+	path = libs/HTMLAgilityPack
+	url = https://github.com/NoitaOmmel/HTMLAgilityPack

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XWitch", "XWitch\XWitch.csproj", "{4CC801FA-83C6-4A2B-97B7-1CB1EEC24E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPack.Net40", "XWitch\libs\HTMLAgilityPack\src\HtmlAgilityPack.Net40\HtmlAgilityPack.Net40.csproj", "{1028002A-BBE2-4FF2-94B7-A8368A8F6887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC801FA-83C6-4A2B-97B7-1CB1EEC24E4E}.Debug|x86.ActiveCfg = Debug|x86
+		{4CC801FA-83C6-4A2B-97B7-1CB1EEC24E4E}.Debug|x86.Build.0 = Debug|x86
+		{4CC801FA-83C6-4A2B-97B7-1CB1EEC24E4E}.Release|x86.ActiveCfg = Release|x86
+		{4CC801FA-83C6-4A2B-97B7-1CB1EEC24E4E}.Release|x86.Build.0 = Release|x86
+		{1028002A-BBE2-4FF2-94B7-A8368A8F6887}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1028002A-BBE2-4FF2-94B7-A8368A8F6887}.Debug|x86.Build.0 = Debug|Any CPU
+		{1028002A-BBE2-4FF2-94B7-A8368A8F6887}.Release|x86.ActiveCfg = Release|Any CPU
+		{1028002A-BBE2-4FF2-94B7-A8368A8F6887}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
