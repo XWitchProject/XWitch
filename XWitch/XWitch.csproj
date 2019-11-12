@@ -27,9 +27,7 @@
     <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="src\MetaSchema.cs" />
-    <Compile Include="src\NoitaSchema.cs" />
-    <Compile Include="src\ComponentDocParser.cs" />
+    <Compile Include="src\Schema.cs" />
     <Compile Include="src\PrimitiveHelper.cs" />
   </ItemGroup>
   <ItemGroup>
