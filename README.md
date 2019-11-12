@@ -27,7 +27,7 @@ Once you have a meta-schema, you can use the `LoadFromNoitaSchema` method on the
 Documentation
 ===
 
-TODO
+[Click here to check out the complete API documentation.](https://xwitchproject.github.io/)
 
 License
 ===
